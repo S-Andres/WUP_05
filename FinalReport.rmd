@@ -79,3 +79,5 @@ The null hypothesis is that the odds ratio is equal one. Therefore, we reject th
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Upon analysis, we were able to distinguish BOTH variables as categorical~categorical data. We also made changes to the original data to use the proper columns for the gg_plots. Once we were able to explain the graphs, we went for the numerical explanations and inferences. With the inference, we were able to reject the null hypothesis.
