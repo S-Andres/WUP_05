@@ -50,7 +50,7 @@ basicCC <- ggplot(dd2,aes(x=infected,y=prcnt*100,fill=treatment))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-The aids drug isn't as effective as anticipated. Approximately 60% of women who took the drug ended up getting sick, which is more than those who didn't get sick. Approximately 40% who took the placebo got sick, which is less than those who didn't get sick.
+Taking the drug leaves you with higher chances of getting aids, as opposed to the placebo. The chances of you getting aids is 3-in-2. You are 1 1/2 times more likely to get aids by taking the drug than not taking anything.
 
 ### Numerical Descriptive Results
 
